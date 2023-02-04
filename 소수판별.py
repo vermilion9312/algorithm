@@ -50,7 +50,6 @@ else:
 # 구간 [2, √N]
 # 시간복잡도: O(√N)
 print("===[1-3]===")
-check = True
 i = 2
 check = True
 while i * i <= N:
